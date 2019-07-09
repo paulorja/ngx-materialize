@@ -77,7 +77,7 @@ If you are using [Angular-CLI](https://github.com/angular/angular-cli) you can f
 ],
 ```
 
-#### tsconfig
+#### tsconfig.app.json
 
 ```diff
 {
